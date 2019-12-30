@@ -1,5 +1,3 @@
-twitch.tv/ketomojito
-
 Trying to reach Master
 
 #### Day 0
